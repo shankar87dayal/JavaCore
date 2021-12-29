@@ -1,0 +1,11 @@
+package edu.javacore.Break_statement_419;
+
+public class Lab423 {
+	public static void main(String[] args) {
+		for (int i = 1; i <= 5; i++)
+			System.out.println("\n" + i);
+		for (int j = 1; j <= 5; j++, System.out.print("j++")) {
+			System.out.print("Raushan" + j);
+		}
+	}
+}
