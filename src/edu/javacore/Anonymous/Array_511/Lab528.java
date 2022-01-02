@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	arr[2][0]=40;     arr[2][1]= 60;
 		for (int i = 0; i < arr.length; i++) {
 			for (int j = 0; j < arr[i].length; j++) {
-				System.out.println("\t" + arr[i][j]);
+				System.out.print("\t" + arr[i][j]);
 
 			}
 			System.out.println();
