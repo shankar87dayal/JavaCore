@@ -11,10 +11,11 @@ public class Lab537 {
 		arr[2] = tmp;
 		for (int ar[] : arr) {
 			for (int a : ar) {
-				System.out.println("\t" + a);
-				System.out.println();
-
+				System.out.print("\t" + a);
+				
 			}
+			System.out.println();
+
 		}
 
 	}
