@@ -12,7 +12,7 @@ public class Lab529 {
 		arr[2][1] = 60;
 		for (int ar[] : arr) {
 			for (int a : ar) {
-				System.out.println("\t" + a);
+				System.out.print("\t" + a);
 			}
 			System.out.println();
 		}
