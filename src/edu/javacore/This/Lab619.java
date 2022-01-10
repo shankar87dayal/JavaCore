@@ -15,7 +15,7 @@ class Student1 {
 	Student1(int sid, String sname){
 		System.out.println("Student 2-arg constructor");
 		this.sid=sid;
-		this.sname =snname;
+		this.sname =sname;
 	}
 
 	void show() {
