@@ -10,12 +10,12 @@ public class Lab653 {
 class Hello32 {
 	int a = 10;
 	{
-		System.out.println("IB: " + this.a);
-		System.out.println("IB: " + this.b);
+		System.out.println("IB: " + a);
+		System.out.println("IB: " + b);
 	}
 	int b = 20;
 	{
-		System.out.println("IB1: " + this.a);
-		System.out.println("IB1: " + this.b);
+		System.out.println("IB1: " + a);
+		System.out.println("IB1: " + b);
 	}
 }
