@@ -6,3 +6,15 @@ package edu.javacore.This;
 	h.show();
 }
 }
+   class Hello19{
+	   int a;
+	   void show() {
+		   String a="Ravi";
+		   System.out.println(a);
+		   System.out.println(this.a);
+		   System.out.println(Hai1.this.a);
+	   }
+   }
+   class Hai1{
+	   int a;
+   }
