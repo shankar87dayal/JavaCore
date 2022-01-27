@@ -1,6 +1,6 @@
 package edu.javacore.dispatch;
 
-public class Employee {
+public class Employee extends Person {
 	void walking() {
 		System.out.println("Employee-> walking()");
 	}
