@@ -3,7 +3,7 @@ package edu.javacore.polymorphism;
 public class Lab939 {
 	public static void main(String[] args) {
 		B4 bobj = new B4();
-		bobj.x = "Hello";
+		bobj.show();
 		System.out.println(bobj.x);
 	}
 }
