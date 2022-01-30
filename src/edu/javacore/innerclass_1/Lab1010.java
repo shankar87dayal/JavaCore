@@ -9,6 +9,7 @@ class OuterC2 {
 		class InnerC2 {
 			void m1() {
 				System.out.println("InnerC2->m1()");
+				System.out.println(a);
 				System.out.println(b);
 			}
 		}
