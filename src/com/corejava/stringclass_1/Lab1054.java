@@ -13,5 +13,6 @@ public class Lab1054 {
 		System.out.println("Re Enter JLC string: ");
 		String st4 = sc.nextLine();
 		System.out.println(st3 == st4);
+		
 	}
 }
