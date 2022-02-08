@@ -6,6 +6,7 @@ public class Lab1081 {
 		System.out.println(str.indexOf('j'));
 		System.out.println(str.indexOf('j', 11));
 		System.out.println(str.indexOf('j', 12));
+		
 		System.out.println(str.indexOf('j', 17));
 	}
 }
