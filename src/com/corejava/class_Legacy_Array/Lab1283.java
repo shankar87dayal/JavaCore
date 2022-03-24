@@ -2,7 +2,8 @@ package com.corejava.class_Legacy_Array;
 
 import java.util.*;
 
-public class Lab1283 {
+public class Lab1283 
+{
 	public static void main(String[] args) {
 		Collection col = new ArrayList();
 		System.out.println(col);
