@@ -25,6 +25,7 @@ class MyThreadT_C6 extends Thread {
 
 	MyThreadT_C6(Thread main) {
 		this.main = main;
+		
 	}
 
 	public void run() {
