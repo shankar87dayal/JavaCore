@@ -19,7 +19,7 @@ public class Lab1370 {
 }
 
 class MyThread extends Thread {
-  
+//   private String name;
 	public void run() {
 		Thread th = Thread.currentThread();
 		for (int i = 1; i <= 10; i++) {
