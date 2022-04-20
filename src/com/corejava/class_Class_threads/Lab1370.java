@@ -2,6 +2,7 @@ package com.corejava.class_Class_threads;
 
 public class Lab1370 {
 	public static void main(String[] args) {
+		//comment 1
 		MyThread t1 = new MyThread();
 		MyThread t2 = new MyThread();
 		t1.start();
